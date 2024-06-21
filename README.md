@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Rolaniya
 - 🌱 I’m currently learning Mashine Learning and DSA
-- 📫 How to reach me ashishrolaniya576@gmailcom
+- 📫 How to reach me ashishrolaniya576@gmail.com
 
 <!---
 ashishrolaniya576/ashishrolaniya576 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
